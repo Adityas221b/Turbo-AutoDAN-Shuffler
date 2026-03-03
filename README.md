@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Kaggle GPU Compatible](https://img.shields.io/badge/Kaggle-GPU%20T4-green?logo=kaggle)](https://www.kaggle.com/)
 [![OpenRouter Free Tier](https://img.shields.io/badge/OpenRouter-Free%20Tier-orange)](https://openrouter.ai/)
-[![Made with ❤️ for Red Teaming](https://img.shields.io/badge/Made%20with-❤️-red)](https://github.com/Adityas221b/Turbo-AutoDAN-Shuffler)
+[![Made with ❤️ for Red Teaming](https://img.shields.io/badge/Made%20with-❤️-red)](https://github.com/Adityas221b)
 
 **Bypass 2026-era LLM safety filters in 1–2 rounds · Generate explicit multi-modal content · Fully reproducible on free Kaggle GPU**
 
